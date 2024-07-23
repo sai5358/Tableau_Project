@@ -1,7 +1,7 @@
 ## ZOMATO DATA ANALYSIS
 
 ### Introduction: 
-This is an end to end project on Zomato Data Analysis using Tableau Public.
+This is an end to end project on Netflix Data Analysis using Tableau Public.
 
 ### Tools utilized:
 Tableau Public was used to create visualizations and analyze the data.
