@@ -1,4 +1,4 @@
-## ZOMATO DATA ANALYSIS
+## NETFLIX DATA ANALYSIS
 
 ### Introduction: 
 This is an end to end project on Netflix Data Analysis using Tableau Public.
